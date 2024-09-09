@@ -1,0 +1,7 @@
+C:\Users\orang\Desktop\RPG_fight_simulator\RPG_fight_simulator\bin\Debug\RPG_fight_simulator.exe.config
+C:\Users\orang\Desktop\RPG_fight_simulator\RPG_fight_simulator\bin\Debug\RPG_fight_simulator.exe
+C:\Users\orang\Desktop\RPG_fight_simulator\RPG_fight_simulator\bin\Debug\RPG_fight_simulator.pdb
+C:\Users\orang\Desktop\RPG_fight_simulator\RPG_fight_simulator\obj\Debug\RPG_fight_simulator.csproj.AssemblyReference.cache
+C:\Users\orang\Desktop\RPG_fight_simulator\RPG_fight_simulator\obj\Debug\RPG_fight_simulator.csproj.CoreCompileInputs.cache
+C:\Users\orang\Desktop\RPG_fight_simulator\RPG_fight_simulator\obj\Debug\RPG_fight_simulator.exe
+C:\Users\orang\Desktop\RPG_fight_simulator\RPG_fight_simulator\obj\Debug\RPG_fight_simulator.pdb
